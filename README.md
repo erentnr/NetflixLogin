@@ -1,5 +1,7 @@
 # NetflixLogin
 
-### Netflix Mobile App Sign In Screen
+### Netflix Login Screen Clone App for Kodluyoruz Bootcamp
 
-Mostly completed.
+This project created for Kodluyoruz Bootcamp.
+
+Basic React Native concepts. Used both function and class components.
